@@ -3,6 +3,7 @@ Bash is a command line shell and programming language used to interact with
 other programs and the operating system.
 
 ## Tutorials
+
 - [The Unix Programming Environment]
   + This is an awesome book to introduce you to many different aspects of
     UNIX programming, including Bash, :ta
@@ -12,3 +13,8 @@ other programs and the operating system.
 [The Unix Programming Environment]:
 https://en.wikipedia.org/wiki/The_Unix_Programming_Environment
 [Bash Academy]: http://www.bash.academy/
+
+## Tools
+
+- [ShellCheck](http://www.shellcheck.net/)
+  + Sh and Bash script linter
