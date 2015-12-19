@@ -5,7 +5,7 @@ traveled, and more!
 
 ## Goals and History
 You can read more about the history of this project and the initial goals in
-my [introductory post] on my website.
+the [introductory post] on my website.
 
 [introductory post]: http://www.robert-gardner.com
 
